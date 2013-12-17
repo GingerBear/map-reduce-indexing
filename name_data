@@ -1,0 +1,6 @@
+type:mapper|address:localhost|port:36342
+type:mapper|address:localhost|port:38134
+type:mapper|address:localhost|port:39158
+type:mapper|address:localhost|port:40438
+type:reducer|address:localhost|port:41462
+type:reducer|address:localhost|port:42486
